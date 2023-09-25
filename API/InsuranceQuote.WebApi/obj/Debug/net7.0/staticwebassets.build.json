@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VjluwYd9l+aANzwAPCi0T+Mut1Y+Z7F8YOggOfbwrtg=",
+  "Source": "InsuranceQuote.WebApi",
+  "BasePath": "_content/InsuranceQuote.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
